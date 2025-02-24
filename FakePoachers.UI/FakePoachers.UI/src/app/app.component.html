@@ -1,0 +1,7 @@
+<div class="spinner-overlay" *ngIf="isLoading$ | async">
+  <div class="spinner-border text-primary" role="status">
+    <span class="visually-hidden">Loading...</span>
+  </div>
+</div>
+<app-toast></app-toast>
+<router-outlet></router-outlet>

@@ -1,0 +1,28 @@
+<section class="py-5">
+  <div class="container px-4 px-lg-5 my-5">
+    <div class="row gx-4 gx-lg-5 align-items-center">
+      <div class="col-md-6">
+        <img
+          class="card-img-top mb-5 mb-md-0"
+          [src]="'data:image/png;base64,' + animaldetails?.image"
+          alt="..."
+        />
+      </div>
+      <div class="col-md-6">
+        <h1 class="display-5 fw-bolder">{{ animaldetails?.name }}</h1>
+        <google-map height="400px" width="600px" [options]="options">
+          <map-advanced-marker
+            *ngIf="
+              animaldetails && animaldetails.latitude && animaldetails.longitude
+            "
+            #markerElem="mapAdvancedMarker"
+            [position]="{
+              lat: animaldetails.latitude,
+              lng: animaldetails.longitude
+            }"
+          />
+        </google-map>
+      </div>
+    </div>
+  </div>
+</section>

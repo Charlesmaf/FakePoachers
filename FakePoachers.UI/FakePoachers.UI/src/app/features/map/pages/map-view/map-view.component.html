@@ -1,0 +1,6 @@
+<google-map height="600px" width="100%" [options]="options" #map>
+  <map-advanced-marker
+    *ngFor="let location of locations"
+    [position]="{ lat: location.latitude, lng: location.longitude }"
+  ></map-advanced-marker>
+</google-map>
