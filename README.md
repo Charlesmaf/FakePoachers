@@ -76,7 +76,7 @@ The **Animal Inventory API** is a RESTful service that manages a list of stolen 
    dotnet run
    ```
 5. **Access API in Browser**
-   Open `http://localhost:5000/swagger` to view API documentation.
+   Open `http://localhost:7017/swagger` to view API documentation.
 
 ## 📜 Example Request (JSON)
 To add an animal, send a `POST` request to `/api/animals` with this JSON body:
@@ -100,9 +100,6 @@ dotnet ef migrations add UpdateSchema
 ```sh
 dotnet ef database update
 ```
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit issues and pull requests.
