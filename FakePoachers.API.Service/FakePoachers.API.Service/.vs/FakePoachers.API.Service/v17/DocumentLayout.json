@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mingas\\source\\repos\\Fake Poachers\\FakePoachers.API.Service\\FakePoachers.API.Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8421BC-79C2-49B3-980D-E5DC9DB22D84}|..\\FakePoachers.Infrastructure\\FakePoachers.Infrastructure.csproj|c:\\users\\mingas\\source\\repos\\fake poachers\\fakepoachers.api.service\\fakepoachers.infrastructure\\dtos\\animaldetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8421BC-79C2-49B3-980D-E5DC9DB22D84}|..\\FakePoachers.Infrastructure\\FakePoachers.Infrastructure.csproj|c:\\users\\mingas\\source\\repos\\fake poachers\\fakepoachers.api.service\\fakepoachers.infrastructure\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8421BC-79C2-49B3-980D-E5DC9DB22D84}|..\\FakePoachers.Infrastructure\\FakePoachers.Infrastructure.csproj|c:\\users\\mingas\\source\\repos\\fake poachers\\fakepoachers.api.service\\fakepoachers.infrastructure\\responses\\getlocationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8421BC-79C2-49B3-980D-E5DC9DB22D84}|..\\FakePoachers.Infrastructure\\FakePoachers.Infrastructure.csproj|c:\\users\\mingas\\source\\repos\\fake poachers\\fakepoachers.api.service\\fakepoachers.infrastructure\\dtos\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8421BC-79C2-49B3-980D-E5DC9DB22D84}|..\\FakePoachers.Infrastructure\\FakePoachers.Infrastructure.csproj|c:\\users\\mingas\\source\\repos\\fake poachers\\fakepoachers.api.service\\fakepoachers.infrastructure\\responses\\getanimaldetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8421BC-79C2-49B3-980D-E5DC9DB22D84}|..\\FakePoachers.Infrastructure\\FakePoachers.Infrastructure.csproj|c:\\users\\mingas\\source\\repos\\fake poachers\\fakepoachers.api.service\\fakepoachers.infrastructure\\responses\\getanimalsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8421BC-79C2-49B3-980D-E5DC9DB22D84}|..\\FakePoachers.Infrastructure\\FakePoachers.Infrastructure.csproj|c:\\users\\mingas\\source\\repos\\fake poachers\\fakepoachers.api.service\\fakepoachers.infrastructure\\dtos\\animallistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8421BC-79C2-49B3-980D-E5DC9DB22D84}|..\\FakePoachers.Infrastructure\\FakePoachers.Infrastructure.csproj|c:\\users\\mingas\\source\\repos\\fake poachers\\fakepoachers.api.service\\fakepoachers.infrastructure\\responses\\addanimalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 289,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mingas\\source\\repos\\Fake Poachers\\FakePoachers.API.Service\\FakePoachers.Infrastructure\\DTOs\\LocationDTO.cs",
+              "RelativeDocumentMoniker": "..\\FakePoachers.Infrastructure\\DTOs\\LocationDTO.cs",
+              "ToolTip": "C:\\Users\\Mingas\\source\\repos\\Fake Poachers\\FakePoachers.API.Service\\FakePoachers.Infrastructure\\DTOs\\LocationDTO.cs",
+              "RelativeToolTip": "..\\FakePoachers.Infrastructure\\DTOs\\LocationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:02:49.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetLocationsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Mingas\\source\\repos\\Fake Poachers\\FakePoachers.API.Service\\FakePoachers.Infrastructure\\Responses\\GetLocationsResponse.cs",
+              "RelativeDocumentMoniker": "..\\FakePoachers.Infrastructure\\Responses\\GetLocationsResponse.cs",
+              "ToolTip": "C:\\Users\\Mingas\\source\\repos\\Fake Poachers\\FakePoachers.API.Service\\FakePoachers.Infrastructure\\Responses\\GetLocationsResponse.cs",
+              "RelativeToolTip": "..\\FakePoachers.Infrastructure\\Responses\\GetLocationsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:01:00.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Mingas\\source\\repos\\Fake Poachers\\FakePoachers.API.Service\\FakePoachers.Infrastructure\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "..\\FakePoachers.Infrastructure\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\Mingas\\source\\repos\\Fake Poachers\\FakePoachers.API.Service\\FakePoachers.Infrastructure\\Models\\Animal.cs",
+              "RelativeToolTip": "..\\FakePoachers.Infrastructure\\Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:39:57.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalDetailsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mingas\\source\\repos\\Fake Poachers\\FakePoachers.API.Service\\FakePoachers.Infrastructure\\DTOs\\AnimalDetailsDTO.cs",
+              "RelativeDocumentMoniker": "..\\FakePoachers.Infrastructure\\DTOs\\AnimalDetailsDTO.cs",
+              "ToolTip": "C:\\Users\\Mingas\\source\\repos\\Fake Poachers\\FakePoachers.API.Service\\FakePoachers.Infrastructure\\DTOs\\AnimalDetailsDTO.cs",
+              "RelativeToolTip": "..\\FakePoachers.Infrastructure\\DTOs\\AnimalDetailsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:07:10.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAnimalDetailsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Mingas\\source\\repos\\Fake Poachers\\FakePoachers.API.Service\\FakePoachers.Infrastructure\\Responses\\GetAnimalDetailsResponse.cs",
+              "RelativeDocumentMoniker": "..\\FakePoachers.Infrastructure\\Responses\\GetAnimalDetailsResponse.cs",
+              "ToolTip": "C:\\Users\\Mingas\\source\\repos\\Fake Poachers\\FakePoachers.API.Service\\FakePoachers.Infrastructure\\Responses\\GetAnimalDetailsResponse.cs",
+              "RelativeToolTip": "..\\FakePoachers.Infrastructure\\Responses\\GetAnimalDetailsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:05:54.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnimalListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mingas\\source\\repos\\Fake Poachers\\FakePoachers.API.Service\\FakePoachers.Infrastructure\\DTOs\\AnimalListDTO.cs",
+              "RelativeDocumentMoniker": "..\\FakePoachers.Infrastructure\\DTOs\\AnimalListDTO.cs",
+              "ToolTip": "C:\\Users\\Mingas\\source\\repos\\Fake Poachers\\FakePoachers.API.Service\\FakePoachers.Infrastructure\\DTOs\\AnimalListDTO.cs",
+              "RelativeToolTip": "..\\FakePoachers.Infrastructure\\DTOs\\AnimalListDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:32:35.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAnimalsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Mingas\\source\\repos\\Fake Poachers\\FakePoachers.API.Service\\FakePoachers.Infrastructure\\Responses\\GetAnimalsResponse.cs",
+              "RelativeDocumentMoniker": "..\\FakePoachers.Infrastructure\\Responses\\GetAnimalsResponse.cs",
+              "ToolTip": "C:\\Users\\Mingas\\source\\repos\\Fake Poachers\\FakePoachers.API.Service\\FakePoachers.Infrastructure\\Responses\\GetAnimalsResponse.cs",
+              "RelativeToolTip": "..\\FakePoachers.Infrastructure\\Responses\\GetAnimalsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:29:55.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddAnimalResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Mingas\\source\\repos\\Fake Poachers\\FakePoachers.API.Service\\FakePoachers.Infrastructure\\Responses\\AddAnimalResponse.cs",
+              "RelativeDocumentMoniker": "..\\FakePoachers.Infrastructure\\Responses\\AddAnimalResponse.cs",
+              "ToolTip": "C:\\Users\\Mingas\\source\\repos\\Fake Poachers\\FakePoachers.API.Service\\FakePoachers.Infrastructure\\Responses\\AddAnimalResponse.cs",
+              "RelativeToolTip": "..\\FakePoachers.Infrastructure\\Responses\\AddAnimalResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T22:22:09.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

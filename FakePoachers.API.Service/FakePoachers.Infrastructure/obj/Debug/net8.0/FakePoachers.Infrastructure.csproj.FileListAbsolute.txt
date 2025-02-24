@@ -1,0 +1,14 @@
+C:\Users\Mingas\source\repos\Fake Poachers\FakePoachers.API.Service\FakePoachers.Infrastructure\bin\Debug\net8.0\FakePoachers.Infrastructure.deps.json
+C:\Users\Mingas\source\repos\Fake Poachers\FakePoachers.API.Service\FakePoachers.Infrastructure\bin\Debug\net8.0\FakePoachers.Infrastructure.runtimeconfig.json
+C:\Users\Mingas\source\repos\Fake Poachers\FakePoachers.API.Service\FakePoachers.Infrastructure\bin\Debug\net8.0\FakePoachers.Infrastructure.dll
+C:\Users\Mingas\source\repos\Fake Poachers\FakePoachers.API.Service\FakePoachers.Infrastructure\bin\Debug\net8.0\FakePoachers.Infrastructure.pdb
+C:\Users\Mingas\source\repos\Fake Poachers\FakePoachers.API.Service\FakePoachers.Infrastructure\obj\Debug\net8.0\FakePoachers.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mingas\source\repos\Fake Poachers\FakePoachers.API.Service\FakePoachers.Infrastructure\obj\Debug\net8.0\FakePoachers.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mingas\source\repos\Fake Poachers\FakePoachers.API.Service\FakePoachers.Infrastructure\obj\Debug\net8.0\FakePoachers.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mingas\source\repos\Fake Poachers\FakePoachers.API.Service\FakePoachers.Infrastructure\obj\Debug\net8.0\FakePoachers.Infrastructure.AssemblyInfo.cs
+C:\Users\Mingas\source\repos\Fake Poachers\FakePoachers.API.Service\FakePoachers.Infrastructure\obj\Debug\net8.0\FakePoachers.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mingas\source\repos\Fake Poachers\FakePoachers.API.Service\FakePoachers.Infrastructure\obj\Debug\net8.0\FakePoachers.Infrastructure.dll
+C:\Users\Mingas\source\repos\Fake Poachers\FakePoachers.API.Service\FakePoachers.Infrastructure\obj\Debug\net8.0\refint\FakePoachers.Infrastructure.dll
+C:\Users\Mingas\source\repos\Fake Poachers\FakePoachers.API.Service\FakePoachers.Infrastructure\obj\Debug\net8.0\FakePoachers.Infrastructure.pdb
+C:\Users\Mingas\source\repos\Fake Poachers\FakePoachers.API.Service\FakePoachers.Infrastructure\obj\Debug\net8.0\FakePoachers.Infrastructure.genruntimeconfig.cache
+C:\Users\Mingas\source\repos\Fake Poachers\FakePoachers.API.Service\FakePoachers.Infrastructure\obj\Debug\net8.0\ref\FakePoachers.Infrastructure.dll

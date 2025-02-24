@@ -1,0 +1,6 @@
+@FakePoachers.API.Service_HostAddress = http://localhost:5033
+
+GET {{FakePoachers.API.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

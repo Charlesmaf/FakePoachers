@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "zukM/JMTgksMqdoSr4JysUdDENabrbZU9/bil0mwuy4=",
+  "Source": "FakePoachers.API.Service",
+  "BasePath": "_content/FakePoachers.API.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
